@@ -66,3 +66,12 @@ Templates 공식문서  https://www.notion.so/Notion-Template-Gallery-181e961aeb
   <h5>댓글 추가 완료</h5>
 <img width="654" alt="스크린샷 2022-12-05 오후 12 16 13" src="https://user-images.githubusercontent.com/83889135/205541892-9436db09-73b1-44b8-89b3-778516e519f2.png">
 <h3>6. AI</h3>
+
+
+*****
+# 노션 활용도
+
+노션은 all-in-one workspace로 메모, 데이터베이스, 칸반 보드, Wiki, 달력, 알림 등을 제공해 주는 노트 기반 협업툴이다.
+
+* 주로 업무 생산성 향상, 콘텐츠 공유 및 협업, 개인 스케줄 관리, 포트폴리오 작성 등을 위해 활용된다.   
+* Ios, 안드로이드, 윈도우 호환 및 연동이 가능해 pc, 모바일, 태블릿 등 여러 기기에서 편리하게 사용이 가능하다.   

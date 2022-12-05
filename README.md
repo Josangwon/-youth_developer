@@ -69,7 +69,7 @@ Templates 공식문서  https://www.notion.so/Notion-Template-Gallery-181e961aeb
 
 
 *****
-# 노션 활용도
+# 노션의 활용도
 
 노션은 all-in-one workspace로 메모, 데이터베이스, 칸반 보드, Wiki, 달력, 알림 등을 제공해 주는 노트 기반 협업툴이다.
 

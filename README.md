@@ -65,8 +65,21 @@ Templates 공식문서  https://www.notion.so/Notion-Template-Gallery-181e961aeb
 <img width="642" alt="스크린샷 2022-12-05 오후 12 15 33" src="https://user-images.githubusercontent.com/83889135/205541807-fa94a517-9435-472e-ac11-f2c5c558260e.png">
   <h5>댓글 추가 완료</h5>
 <img width="654" alt="스크린샷 2022-12-05 오후 12 16 13" src="https://user-images.githubusercontent.com/83889135/205541892-9436db09-73b1-44b8-89b3-778516e519f2.png">
+<hr>
 <h3>6. AI</h3>
+<h6>현재 노션 AI는 현재 대기자 명단에 가입한 사용자만 액세스할 수 있는 상태이며 AI 글쓰기가 100% 정확하지 않아 비공개 알파테스트로만 출시했다. <br>
+   노션 AI의 지원으로써 더욱 손쉬운 노션의 사용이 가능하기에 매우 기대되는 기능이다.
+</h6>
 
+출처 : AI타임스(http://www.aitimes.com)
+
+![ai-hero-demo-v1](https://user-images.githubusercontent.com/83889135/206062118-45794a32-4ceb-4cec-baa2-3c5a60b114cd.gif)
+
+<h6>클릭시 유튜브 이동</h6>
+
+[![Video Label](http://img.youtube.com/vi/smdnSJVG_Qg/0.jpg)](https://youtu.be/smdnSJVG_Qg?t=0s)
+
+출처 : 노마드코더(https://www.youtube.com/@nomadcoders)
 
 *****
 # 노션의 활용도

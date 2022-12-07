@@ -11,6 +11,7 @@
 웹사이트|https://www.notion.so/
 
 &nbsp;
+*****
 # 노션의 역사
 노션 랩 주식회사(Notion Labs Inc)는 샌프란시스코에 본사를 둔 스타트업이다. 2013년 이반자오(Ivan Zhao)에 의해 설립되었다. 그 당시에 설립자들은 벤처 투자가들을 만나거나 더 높은 가치의 취득을 논의하기를 거부했다.
 * 2018년 3월, 노션 2.0버전이 출시되었다. 이 제품은 프로젝트 헌트(Product Hunt)에서 긍정적인 반응을 얻었고 이달의 제품 1위를 차지했다. 그 당시 그 회사는 직원이 10명도 안 되었다.
@@ -23,10 +24,68 @@
 
 출처: 노션(생산성 소프트웨어).위키백과.(2022년 8월 11일).
 https://ko.wikipedia.org/wiki/%EB%85%B8%EC%85%98_(%EC%83%9D%EC%82%B0%EC%84%B1_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)
+&nbsp;
+*****
+# 노션 공식 소개글
+![image](https://user-images.githubusercontent.com/105706573/206062385-0295b8e1-4161-4437-b9c4-95aacda700f7.png)
+![image](https://user-images.githubusercontent.com/105706573/206062470-aae47818-0e77-47e0-9a5b-2513d49f5218.png)
+![image](https://user-images.githubusercontent.com/105706573/206062552-ec25cc6a-7599-45f7-94e3-b0103cd83f5d.png)
+![image](https://user-images.githubusercontent.com/105706573/206062653-b329525f-f61a-4c77-92a3-593516f8748f.png)
+![image](https://user-images.githubusercontent.com/105706573/206062704-5b12db78-0cef-4169-99ff-b7fda2494570.png)
+![image](https://user-images.githubusercontent.com/105706573/206062763-5605f12c-5704-4e3f-b28a-bcb5df5b4ef9.png)
+![image](https://user-images.githubusercontent.com/105706573/206062800-a8956aaf-13b7-4426-95d4-6a80d2715843.png)
+![image](https://user-images.githubusercontent.com/105706573/206062852-c277ce7d-ab0f-4f66-a137-e02f1b451071.png)
+![image](https://user-images.githubusercontent.com/105706573/206062900-6051c240-01d4-4e01-99ae-39e5dd37c701.png)
+&nbsp;   
+출처: 노션 공식 홈페이지
 
 &nbsp;
 *****
+# 노션의 투자자
+**샤나 피셔(Shana Fisher)**   
+: Pinterest, Stripe, Hackpad, Paper/FiftyThree의 투자자.   
+&nbsp;   
+**나발 라비칸트(Naval Ravikant)**   
+: AngelList의 설립자. Twitter, Uber, Yammer의 투자자.   
+&nbsp;   
+**람 슈리람(Ram Shriram)**   
+: Sherpalo Ventures의 파트너. Google의 투자자 및 임원.   
+&nbsp;   
+**조쉬 코펠만(Josh Kopelman)**   
+: First Round Capital의 파트너. Uber, LinkedIn의 투자자.   
+&nbsp;   
+**핀 반스(Phin Barnes)**   
+: First Round Capital의 파트너. Blue Apron, Clearbit의 투자자.   
+&nbsp;   
+**아이딘 센쿠트(Aydin Senkut)**   
+: Felicis Ventures의 파트너. Shopify, Fitbit의 투자자.   
+&nbsp;   
+**매트 매키니스(Matt Macinnis)**   
+: Inkling 설립자. Clever, Zenefits의 투자자.   
+&nbsp;   
+**엘라드 길(Elad Gil)**   
+: Twitter의 전 부사장. Airbnb, Stripe, Square, Pinterest의 투자자.   
+&nbsp;   
+**마이크 버널(Mike Vernal)**   
+: Sequoia Capital의 파트너. Facebook 전 플랫폼 책임자.   
+&nbsp;   
+**로니 콘웨이(Ronny Conway)**   
+: ACapital의 파트너. Pinterest, Reddit, Coinbase의 투자자.   
+&nbsp;   
+**라치 그룸(Lachy Groom)**   
+: Stripe의 초기 직원. Figma, Front, Superhuman의 투자자.   
+&nbsp;   
+**다니엘 그로스(Daniel Gross)**   
+: Pioneer의 창립자. Cue의 전 창립자. Y-Combinator의 전 파트너.   
+&nbsp;   
+**사라 캐논(Sarah Cannon)**   
+: Index Ventures의 파트너. 백악관의 전 정책 고문.   
+&nbsp;   
+**카린 마루니(Caryn Marooney)**   
+: Facebook 전 커뮤네케이션 책임자. Zendesk, Elastic의 이사회 멤버.   
+
 &nbsp;
+*****
 
 # 노션의 기능
 <h2>1. personal plan</h2>

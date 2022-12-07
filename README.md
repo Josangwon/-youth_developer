@@ -138,12 +138,55 @@ Templates 공식문서  https://www.notion.so/Notion-Template-Gallery-181e961aeb
 
 [![Video Label](http://img.youtube.com/vi/smdnSJVG_Qg/0.jpg)](https://youtu.be/smdnSJVG_Qg?t=0s)
 
-출처 : 노마드코더(https://www.youtube.com/@nomadcoders)
-
+출처 : 노마드코더(https://www.youtube.com/@nomadcoders)  <br>
+<br>
 *****
-# 노션의 활용도
+# 노션의 활용
 
 노션은 all-in-one workspace로 메모, 데이터베이스, 칸반 보드, Wiki, 달력, 알림 등을 제공해 주는 노트 기반 협업툴이다.
 
 * 주로 업무 생산성 향상, 콘텐츠 공유 및 협업, 개인 스케줄 관리, 포트폴리오 작성 등을 위해 활용된다.   
-* Ios, 안드로이드, 윈도우 호환 및 연동이 가능해 pc, 모바일, 태블릿 등 여러 기기에서 편리하게 사용이 가능하다.   
+* Ios, 안드로이드, 윈도우 호환 및 연동이 가능해 pc, 모바일, 태블릿 등 여러 기기에서 편리하게 사용이 가능하다. 
+
+***********************
+## PERSONAL 개인 활용
+### 1. 공부 및 작업 정리
+공부 또는 작업했던 기록들을 주제별로 모아서 정리할 수 있다. <br>
+<br>
+![image](https://user-images.githubusercontent.com/105704623/206062554-458027b3-5e92-4449-aa12-8d60fecd31bc.png)
+
+
+### 2. TODO LIST
+한 주 할 일 정리용으로 간단히 쓸 수도 있고, 블럭을 옮기거나 페이지를 추가하는 등 사용자가 원하는 대로 편리하게 활용할 수 있다. <br>
+이 외에도 업무 기록, 개인 프로젝트의 현황을 체크하는 데 활용이 가능하다. <br>
+<br>
+![image](https://user-images.githubusercontent.com/105704623/206062694-ad19f82b-9691-43d5-8423-3aa7427a416c.png)
+
+
+### 3. 자기소개 및 포트폴리오
+노션을 활용해 자기소개 페이지와 포트폴리오를 작성할 수 있다. <br>
+<br>
+![image](https://user-images.githubusercontent.com/105704623/206063374-48122082-c3d9-4ccc-b976-ef9358ed9946.png)
+![image](https://user-images.githubusercontent.com/105704623/206063425-8045d9f2-007b-46cf-bb47-000f8fdb65a6.png)
+Notion Templats 출처: [velog@baeyuna97](https://url.kr/85qszf "velog@baeyuna97")
+
+************************
+## TEAM 그룹 활용
+### 1. 프로젝트 협업 관리
+팀 페이지를 만들어 멤버를 추가하면 공동 작업이 가능하고 작업물을 공유할 수 있어 팀프로젝트 진행 현황을 쉽게 체크 할 수 있다. <br>
+<br>
+![image](https://user-images.githubusercontent.com/105704623/206063571-00144f64-8d7d-402b-b57e-388ff054afe0.png)
+사진 출처: 노션 공식 홈페이지(https://www.notion.so/ko-kr/help/collaborate-within-a-workspace)
+<br>
+- 페이지를 보고 있거나 작업 중인 멤버의 아이콘이 팀원에게 보여진다. 
+- 노션의 댓글 기능은 작업물 코멘트를 남기는 것에 활용할 수 있다.
+
+### 2. 회의록 및 스케줄 관리
+팀 회의록, 팀 스케줄을 관리할 수 있는 페이지를 만들어 관리할 수 있다. <br>
+<br>
+![image](https://user-images.githubusercontent.com/105704623/206064099-fe5b7a6d-ac9c-42c8-a798-6cd8b06b61f2.png)
+***********
+![image](https://user-images.githubusercontent.com/105704623/206064124-ddd2283a-9986-47ae-ac76-7a308c50c456.png)
+![image](https://user-images.githubusercontent.com/105704623/206064173-2dff1463-6128-47d4-be8b-6d09e444d465.png)
+- (+) 클릭해 팀원을 추가하면 한 페이지 안에 팀원별 스케줄 관리가 가능하다.
+<br>

@@ -156,16 +156,28 @@ Templates 공식문서  https://www.notion.so/Notion-Template-Gallery-181e961aeb
    노션 AI의 지원으로써 더욱 손쉬운 노션의 사용이 가능하기에 매우 기대되는 기능이다.
 </h6>
 
-출처 : AI타임스(http://www.aitimes.com)
-
 ![ai-hero-demo-v1](https://user-images.githubusercontent.com/83889135/206062118-45794a32-4ceb-4cec-baa2-3c5a60b114cd.gif)
 
 <h6>클릭시 유튜브 이동</h6>
 
 [![Video Label](http://img.youtube.com/vi/smdnSJVG_Qg/0.jpg)](https://youtu.be/smdnSJVG_Qg?t=0s)
 
-출처 : 노마드코더(https://www.youtube.com/@nomadcoders)  <br>
 <br>
+<h3>6. API</h3>
+<h4>API?</h4>
+<h6>API(Application Programming Interface)는 응용 프로그램에서 사용할 수 있도록 운영체제나 프로그래밍 언어가 제공하는 기능을 제어할 수 있게 만든 인터페이스를 뜻합니다. 주로 파일 제어, 창 제어, 화상 처리, 문자 제어 등을 위한 인터페이스를 제공합니다.</h6>
+<h5>간단하게! API란 프로그램과 또 다른 프로그램을 연결해주는 일종의 다리라고 볼 수 있습니다.</h5>
+
+<h6>클릭시 유튜브 이동</h6>
+
+[![Video Label](http://img.youtube.com/vi/XCAwSBdeejU/0.jpg)](https://youtu.be/XCAwSBdeejU?t=0s)
+
+<h3>출처</h3>
+<ul>
+   <li>출처 : AI타임스(http://www.aitimes.com)</li>
+   <li>출처 : 노마드코더(https://www.youtube.com/@nomadcoders)</li>
+</ul>
+
 *****
 # 노션의 활용
 

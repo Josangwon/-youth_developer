@@ -227,4 +227,21 @@ Notion Templats 출처: [velog@baeyuna97](https://url.kr/85qszf "velog@baeyuna97
 ![image](https://user-images.githubusercontent.com/105704623/206064124-ddd2283a-9986-47ae-ac76-7a308c50c456.png)
 ![image](https://user-images.githubusercontent.com/105704623/206064173-2dff1463-6128-47d4-be8b-6d09e444d465.png)
 - (+) 클릭해 팀원을 추가하면 한 페이지 안에 팀원별 스케줄 관리가 가능하다.
+***********
+## 노션을 활용한 국내 기업의 브랜딩 사이트
+여러 기업이 노션을 활용해 기업 소개와 서비스, 채용 정보 등 다양한 정보를 담은 브랜딩 사이트를 구현하였다. <br>
+<br>
+**왓챠 WATCHA** <br>
+https://watcha.team/
+<br>
+<br>
+**배민 플랫폼실** <br>
+https://woowahan.oopy.io/
+<br>
+<br>
+**토스페이먼츠** <br>
+https://tosspayments-dev.oopy.io/
+<br><br>
+**슬릭 SLEEK** <br>
+https://www.sleekcorp.co.kr/
 <br>

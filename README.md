@@ -108,14 +108,14 @@ https://www.notion.so/Notion-Korea-Community-61220f5077824ae681644cdd012006e9
 https://www.notion.so/ko-kr/help/guides   
 &nbsp;   
 **노션 도움말 센터**   
-https://www.notion.so/ko-kr/help   
+https://www.notion.so/ko-kr/help
 
 &nbsp;
 *****
 
 # 노션의 기능
-<h2>1. personal plan</h2>
-   <img width="204" alt="스크린샷 2022-12-05 오전 11 30 41" src="https://user-images.githubusercontent.com/83889135/205536453-b55225cd-4601-4e31-ac54-e6a6b95d6ec5.png">
+## 1. personal plan
+![image](https://user-images.githubusercontent.com/105706573/207004766-43763530-7c5c-4464-b960-9b9695c30b8b.png)
 <hr>
 <h3>2. Block Data</h3>
   <ul>

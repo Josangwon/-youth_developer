@@ -115,8 +115,10 @@ https://www.notion.so/ko-kr/help
 *****
 
 # 노션의 기능
-## 1. personal plan
-![image](https://user-images.githubusercontent.com/105706573/207004766-43763530-7c5c-4464-b960-9b9695c30b8b.png)
+<h3>1. personal plan</h3>
+
+![207004766-43763530-7c5c-4464-b960-9b9695c30b8b](https://user-images.githubusercontent.com/83889135/207040988-5499bf27-5c03-41ef-93b9-9b69b099d5bb.png)
+
 <hr>
 <h3>2. Block Data</h3>
   <ul>
@@ -131,13 +133,16 @@ https://www.notion.so/ko-kr/help
 <hr>
 <h3>3. Templates</h3>
 <img width="239" alt="스크린샷 2022-12-05 오전 11 47 38" src="https://user-images.githubusercontent.com/83889135/205539118-ec7b1039-fd5e-44ac-9ed6-70dd02aa5966.png">
-
-<h5>1.템플릿 선택</h5>
+<br>
+<h4>1.템플릿 선택</h4>
 <img width="1227" alt="스크린샷 2022-12-05 오전 11 51 12" src="https://user-images.githubusercontent.com/83889135/205538954-827c3638-61e9-4173-93cd-675bc2823025.png">
-<h5>2.강의 일정 템플릿 사용</h5>
+<br>
+<h4>2.강의 일정 템플릿 사용</h4>
 <img width="241" alt="스크린샷 2022-12-05 오전 11 53 43" src="https://user-images.githubusercontent.com/83889135/205539256-385eca45-1110-4ab1-91ed-52bf2c11f9dc.png">
-<h5>3.강의 일정 템플릿 활용</h5>
+<br>
+<h4>3.강의 일정 템플릿 활용</h4>
 <img width="1123" alt="스크린샷 2022-12-05 오전 11 56 27" src="https://user-images.githubusercontent.com/83889135/205539539-42f6e3b9-f3bd-4261-b7f6-88f0b0abc26c.png">
+<br>
 Templates 공식문서  https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d
 <hr>
 <h3>4. 팀 & 개인</h3>
@@ -145,29 +150,31 @@ Templates 공식문서  https://www.notion.so/Notion-Template-Gallery-181e961aeb
 <img width="88" alt="스크린샷 2022-12-05 오후 12 08 27" src="https://user-images.githubusercontent.com/83889135/205541012-eee0e08c-d5cc-4ba7-a669-adacac278c52.png">
 <hr>
 <h3>5. 댓글</h3>
-  <h5>댓글 클릭</h5>
+  <h4>댓글 클릭</h4>
 <img width="563" alt="스크린샷 2022-12-05 오후 12 15 11" src="https://user-images.githubusercontent.com/83889135/205541768-15d7817e-0908-411e-9340-00bf7819b703.png">
-  <h5>댓글 입력</h5>
+<br>
+  <h4>댓글 입력</h4>
 <img width="642" alt="스크린샷 2022-12-05 오후 12 15 33" src="https://user-images.githubusercontent.com/83889135/205541807-fa94a517-9435-472e-ac11-f2c5c558260e.png">
-  <h5>댓글 추가 완료</h5>
+<br>
+  <h4>댓글 추가 완료</h4>
 <img width="654" alt="스크린샷 2022-12-05 오후 12 16 13" src="https://user-images.githubusercontent.com/83889135/205541892-9436db09-73b1-44b8-89b3-778516e519f2.png">
+<br>
 <hr>
 <h3>6. AI</h3>
-<h6>현재 노션 AI는 현재 대기자 명단에 가입한 사용자만 액세스할 수 있는 상태이며 AI 글쓰기가 100% 정확하지 않아 비공개 알파테스트로만 출시했다. <br>
+<h4>현재 노션 AI는 현재 대기자 명단에 가입한 사용자만 액세스할 수 있는 상태이며 AI 글쓰기가 100% 정확하지 않아 비공개 알파테스트로만 출시했다. <br>
    노션 AI의 지원으로써 더욱 손쉬운 노션의 사용이 가능하기에 매우 기대되는 기능이다.
-</h6>
+</h4>
 
 ![ai-hero-demo-v1](https://user-images.githubusercontent.com/83889135/206062118-45794a32-4ceb-4cec-baa2-3c5a60b114cd.gif)
 
-<h6>클릭시 유튜브 이동</h6>
+<h4>클릭시 유튜브 이동</h4>
 
 [![Video Label](http://img.youtube.com/vi/smdnSJVG_Qg/0.jpg)](https://youtu.be/smdnSJVG_Qg?t=0s)
 
 <br>
 <h3>6. API</h3>
-<h4>API?</h4>
-<h6>API(Application Programming Interface)는 응용 프로그램에서 사용할 수 있도록 운영체제나 프로그래밍 언어가 제공하는 기능을 제어할 수 있게 만든 인터페이스를 뜻합니다. 주로 파일 제어, 창 제어, 화상 처리, 문자 제어 등을 위한 인터페이스를 제공합니다.</h6>
-<h5>간단하게! API란 프로그램과 또 다른 프로그램을 연결해주는 일종의 다리라고 볼 수 있습니다.</h5>
+<h4>API(Application Programming Interface)는 응용 프로그램에서 사용할 수 있도록 운영체제나 프로그래밍 언어가 제공하는 기능을 제어할 수 있게 만든 인터페이스를 뜻합니다. 주로 파일 제어, 창 제어, 화상 처리, 문자 제어 등을 위한 인터페이스를 제공합니다.</h4>
+<h3>간단하게! API란 프로그램과 또 다른 프로그램을 연결해주는 일종의 다리라고 볼 수 있습니다.</h3>
 
 <h6>클릭시 유튜브 이동</h6>
 

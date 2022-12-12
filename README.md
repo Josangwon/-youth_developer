@@ -31,6 +31,7 @@ Index Ventures와 다른 투자자들로부터 5,000만 달러의 투자를 받�
 
 출처: 노션(생산성 소프트웨어).위키백과.(2022년 8월 11일).
 https://ko.wikipedia.org/wiki/%EB%85%B8%EC%85%98_(%EC%83%9D%EC%82%B0%EC%84%B1_%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)
+
 &nbsp;
 *****
 # 노션 공식 소개글
